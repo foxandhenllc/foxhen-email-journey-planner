@@ -104,7 +104,7 @@ function App() {
     const prompt = [
       `Fork Email Journey Planner as a public-safe client demo.`,
       `Service line: Email marketing workflow.`,
-      "Keep all records fictional, remove secrets, update sample data in src/data.ts, and run npm run build before publishing.",
+      "Keep all records fictional, remove credentials, update sample data in src/data.ts, and run npm run build before publishing.",
     ].join(" ");
     if (navigator.clipboard) {
       void navigator.clipboard.writeText(prompt).then(() => {
