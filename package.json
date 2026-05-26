@@ -25,12 +25,24 @@
   "description": "Email journey planner for welcome sequences, quote follow-ups, reactivation paths, copy blocks, and exportable plans.",
   "homepage": "https://foxhen-email-journey-planner.vercel.app",
   "keywords": [
-    "email-marketing",
     "automation",
+    "calendar",
     "customer-journey",
+    "email",
+    "email-marketing",
+    "follow",
+    "fox-and-hen",
+    "journey",
+    "planner",
+    "quote",
     "react",
+    "reactivation",
+    "sequence",
+    "small-business",
     "typescript",
     "vite",
-    "small-business"
+    "welcome",
+    "workflow",
+    "workflow-tools"
   ]
 }

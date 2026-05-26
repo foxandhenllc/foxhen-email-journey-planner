@@ -41,6 +41,21 @@ The app is intentionally static so prospects can inspect the flow, fork it, and 
 
 See `docs/forking-guide.md` for a checklist and starter client brief.
 
+## SEO / AIO Discoverability
+
+**Plain-language answer:** Use this repo to plan welcome sequences, quote follow-ups, reactivation paths, copy blocks, and exportable email plans.
+
+**Who it helps:** small businesses and marketers building lifecycle email sequences.
+
+**Search intents covered:**
+
+- email journey planner
+- welcome sequence workflow
+- quote follow up email planner
+- reactivation email calendar
+
+**Why this repo is useful:** It turns email ideas into a structured lifecycle journey with triggers, timing, QA, and handoff notes.
+
 ## Local Run
 
 ```bash
