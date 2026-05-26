@@ -1,6 +1,6 @@
 # Email Journey Planner
 
-Public Fox & Hen working sample for **Email marketing workflow**.
+Email journey planner for welcome sequences, quote follow-ups, reactivation paths, copy blocks, and exportable plans.
 
 ![Demo screenshot](docs/demo-screenshot.png)
 
@@ -8,6 +8,10 @@ Public Fox & Hen working sample for **Email marketing workflow**.
 
 - Demo: [https://foxhen-email-journey-planner.vercel.app](https://foxhen-email-journey-planner.vercel.app)
 - Repository: [https://github.com/foxandhenllc/foxhen-email-journey-planner](https://github.com/foxandhenllc/foxhen-email-journey-planner)
+
+## Purpose
+
+Email journey planner for welcome sequences, quote follow-ups, reactivation paths, copy blocks, and exportable plans.
 
 ## Fully Working Behaviors
 
@@ -19,7 +23,7 @@ Public Fox & Hen working sample for **Email marketing workflow**.
 
 ## Service Mapping
 
-This demo packages a lightweight email marketing workflow workflow around:
+This repo packages a focused, public-safe workflow around:
 
 - Ranked board
 - Editable item inspector
