@@ -6,7 +6,7 @@ Email journey planner for welcome sequences, quote follow-ups, reactivation path
 
 ## Live Demo
 
-- Demo: [https://foxhen-email-journey-planner.vercel.app](https://foxhen-email-journey-planner.vercel.app)
+- Demo: [https://freetoolsforpeople.com/email-journey-planner](https://freetoolsforpeople.com/email-journey-planner)
 - Repository: [https://github.com/foxandhenllc/foxhen-email-journey-planner](https://github.com/foxandhenllc/foxhen-email-journey-planner)
 
 ## Purpose

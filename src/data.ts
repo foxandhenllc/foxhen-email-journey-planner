@@ -40,7 +40,7 @@ export const sample: {
   "serviceLine": "Email marketing workflow",
   "description": "Plan lifecycle email sequences with segments, triggers, timing, QA, and launch handoff.",
   "repositoryUrl": "https://github.com/foxandhenllc/foxhen-email-journey-planner",
-  "liveDemoUrl": "https://foxhen-email-journey-planner.vercel.app",
+  "liveDemoUrl": "https://freetoolsforpeople.com/email-journey-planner",
   "theme": {
     "accent": "#6e2c49",
     "accent2": "#75c7b1",

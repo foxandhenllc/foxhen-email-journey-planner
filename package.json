@@ -23,7 +23,7 @@
     "node": ">=20"
   },
   "description": "Email journey planner for welcome sequences, quote follow-ups, reactivation paths, copy blocks, and exportable plans.",
-  "homepage": "https://foxhen-email-journey-planner.vercel.app",
+  "homepage": "https://freetoolsforpeople.com/email-journey-planner",
   "keywords": [
     "automation",
     "calendar",
